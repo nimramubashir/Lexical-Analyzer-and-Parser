@@ -1,0 +1,11 @@
+Typeidentifier(arglist)compoundStmt
+int
+ArgAL`
+Typeidentifier
+float
+
+{
+Stmtlist}
+StmtSL`
+;
+
